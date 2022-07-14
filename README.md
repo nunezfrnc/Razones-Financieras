@@ -1,2 +1,4 @@
-# Razones-Financieras-V.1
+# Razones-Financieras
+
+
 Permite calcular razones de rentabilidad, liquidez, solvencia sobre una compañía
